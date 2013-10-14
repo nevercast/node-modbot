@@ -1,0 +1,22 @@
+{
+  "name": "modbot",
+  "description": "ModBot API in Node.JS",
+  "version": "0.0.1",
+  "author": "Josh Lloyd <j.nevercast@gmail.com>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nevercast/node-modbot"
+  },
+  "bugs": {
+    "mail": "j.nevercast@gmail.com",
+    "url": "http://github.com/nevercast/node-modbot/issues"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "licences": "MIT",
+  "dependencies": {
+  }
+}
